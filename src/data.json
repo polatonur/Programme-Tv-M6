@@ -1,0 +1,56 @@
+[
+  {
+    "time": "18h45",
+    "title": "Tous en cuisine, en direct avec Cyril Lignac",
+    "type": "Magazine culinaire",
+    "duration": "1h",
+    "image": "https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F353861bb593e22e7.2Ejpg/64x90/quality/80/tous-en-cuisine-en-direct-avec-cyril-lignac.jpg",
+    "isUnseen": false,
+    "direct": true
+  },
+  {
+    "time": "19h45",
+    "title": "Le 19.45",
+    "type": "Journal",
+    "duration": "25min",
+    "image": "https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Fc99fa042692b8ad0.2Ejpg/64x90/quality/80/le-19-45.jpg",
+    "isUnseen": false,
+    "direct": true
+  },
+  {
+    "time": "20h10",
+    "title": "Météo",
+    "type": "Météo",
+    "duration": "15min",
+    "image": "https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2F63dfa48b6811ffc3.2Ejpg/64x90/quality/80/meteo.jpg",
+    "isUnseen": false,
+    "direct": false
+  },
+  {
+    "time": "20h25",
+    "title": "Scènes de ménages",
+    "type": "Série humoristique",
+    "duration": "40min",
+    "image": "https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Fffae57ea3ab9dca6.2Ejpg/64x90/quality/80/scenes-de-menages.jpg",
+    "isUnseen": true,
+    "direct": false
+  },
+  {
+    "time": "21h05",
+    "title": "Mon beau-père et moi",
+    "type": "Comédie",
+    "duration": "1h40min",
+    "image": "https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Ff11159ef9ea41f45.2Ejpg/64x90/focus-point/892,216/quality/80/mon-beau-pere-et-moi.jpg",
+    "isUnseen": false,
+    "direct": false
+  },
+  {
+    "time": "22h45",
+    "title": "Le gendarme et les gendarmettes",
+    "type": "Comédie",
+    "image": "https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fprogram.2Fe2bc097afe6ada73.2Ejpg/64x90/focus-point/575,262/quality/80/le-gendarme-et-les-gendarmettes.jpg",
+    "duration": "1h40min",
+    "isUnseen": false,
+    "direct": false
+  }
+]
